@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: dm-cont1
-          image: mohanudayana/cycle
+          image: mohanudayana/mygame
           ports:
             - containerPort: 80
